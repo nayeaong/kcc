@@ -1,1 +1,3 @@
 # kcc
+
+sde + entropy
